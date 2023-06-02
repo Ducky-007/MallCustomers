@@ -10,3 +10,5 @@ Various genders and age groups can be associated with different spending habits 
 The license is unknown.
 
 You can download workbook and dataset for interactive dashboard usage or look at the slide images to look at customer insights.
+
+Dashboards and stories answer stakeholder question: what age groups would benefit most from marketing?
