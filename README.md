@@ -29,6 +29,6 @@ Female customers in their 20's have a high average spend score for only small pe
 
 Target age range for mall marketing: 30's but 70+ and 20's hold high potential
 
-30's Females best value as well as females in thier 20's
+30's Females hold best marketing value as well as females in thier 20's
 
-Males in 30's hold best value as well as great potential for males in 20's
+Males in 30's hold best marketing value as well as great potential for males in 20's
